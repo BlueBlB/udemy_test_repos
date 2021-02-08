@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 changes maded inside master second time!
-=======
-changes maded inside very-bad!
->>>>>>> very-bad
