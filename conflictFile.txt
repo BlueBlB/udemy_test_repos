@@ -1,1 +1,3 @@
-MODIF PE master \\originaul text pe master
+local = PE BRANCHUL ACTUAL modif
+remote = PE BRANCHUL pe care il merguiesc cu localul
+BASE =inainte de a se modifica pe ambele
